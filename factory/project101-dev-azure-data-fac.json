@@ -1,0 +1,9 @@
+{
+	"name": "project101-dev-azure-data-fac",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fdad5d0f-30ed-4ca4-9161-90b6fd68e110",
+		"tenantId": "27b135e3-f3e7-4095-b8b3-047861de8d99"
+	}
+}
